@@ -1,5 +1,6 @@
 @extends('layouts.app')
 
 @section('titulo')
-    Hola mundo desde nosotros
+
+    Hola desde el register
 @endsection
