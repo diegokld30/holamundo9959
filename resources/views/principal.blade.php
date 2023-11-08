@@ -5,5 +5,5 @@
 @endsection
 
 @section('contenido')
-    Hola desde el
+    Hola desde el contenido del inicio
 @endsection
