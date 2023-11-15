@@ -18,7 +18,7 @@
             class="uppercase text-gray-600 font-bold text-small">
             Login
         </a>
-        <a href="/register"
+        <a href="{{ route('register.index') }}"
            class="uppercase text-gray-600 font-bold text-small">
             Crear cuenta
         </a>
